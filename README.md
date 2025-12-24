@@ -41,7 +41,12 @@ Starting Inventory
 ![Live Inventory](Screenshots/live_inventory/live_inventory1.png)
 
 ### Reorder Decisions
-![Reorder](Screenshots/reorder_alert.png)
+![Reorder](Screenshots/reorder_alert/reorder_alert.png)
+
+### Automation
+![Automation](Screenshots/automation_logic/automation_logic1.png)
+![Automation](Screenshots/automation_logic/automation_logic2.png)
+
 
 ### Days of Supply Planning
 ![Days of Supply](screenshots/days_of_supply.png)
