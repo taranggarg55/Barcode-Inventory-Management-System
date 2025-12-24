@@ -48,8 +48,10 @@ Starting Inventory
 ![Automation](Screenshots/automation_logic/automation_logic2.png)
 
 
-### Days of Supply Planning
-![Days of Supply](screenshots/days_of_supply.png)
+### Auto Linked Transactions
+![Auto Linked Transactions](Screenshots/auto_linked_transaction/auto_linked_transaction1.png)
+![Auto Linked Transactions](Screenshots/auto_linked_transaction/auto_linked_transaction2.png)
+
 
 ## Use Case
 Designed for retail stores, warehouses, or shared inventory environments requiring traceability, auditability, and demand-driven replenishment decisions.
