@@ -34,7 +34,7 @@ Starting Inventory
 ## Outputs & Planning Views
 
 ### Inventory Transactions (Barcode Scans)
-!Screenshots/transactions_table/transactions_table1.png
+![Transactions](Screenshots/transactions_table/transactions_table1.png)
 
 ### Live Inventory Calculation
 ![Live Inventory](screenshots/live_inventory1.png)
