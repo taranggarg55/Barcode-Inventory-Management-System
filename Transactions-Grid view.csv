@@ -1,0 +1,7 @@
+﻿Name,Transaction ID,Timestamp,Transaction Type,Store,Location,SKU,Quantity,User,Reason Code,Notes,Live Inventory,Requires Review,Store-SKU Key
+,TXN-reczPMawNL1qnQaNH,12/24/2025,RECEIVE,ST01,ST01-A1-S1-B1,P001,20.0,Storekeeper,,"Supplier Delivery
+",Unnamed record,,ST01-P001
+,TXN-recTZ3WXfTYiGaFsT,12/24/2025,SALE,ST01,ST01-A1-S1-B1,P001,5.0,POS Scanner,,,Unnamed record,,ST01-P001
+,TXN-recX4tSNi5NFW4RtB,12/24/2025,MOVE,ST01,ST01-A1-S2-B1,P001,0.0,Storekeeper,,Re-slotting,Unnamed record,,ST01-P001
+,TXN-rec9Sp87ckajwtMlJ,12/24/2025,CYCLE_COUNT,ST01,ST01-A1-S2-B1,P001,2.0,Auditor, Cycle Count,Found 2 units missing,Unnamed record,🟡 Verify variance,ST01-P001
+,TXN-recKyfUDWUF7Fmy7q,12/24/2025,SALE,ST03,ST03-A1-S1-B1,P003,5.0,,,,Unnamed record,,ST03-P003
