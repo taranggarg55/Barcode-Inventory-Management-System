@@ -1,0 +1,15 @@
+﻿SKU,Product Name,Category,Barcode Value,Unit Price,Active,Inventory Snapshot (Daily),Transactions,Live Inventory
+P001,P001,General,P001,$10.50,checked,"Unnamed record,Unnamed record,Unnamed record,Unnamed record","Unnamed record,Unnamed record,Unnamed record,Unnamed record",Unnamed record
+P002,P002,General,P002,$12.00,checked,Unnamed record,,
+P003,P003,General,P003,$8.75,checked,Unnamed record,Unnamed record,Unnamed record
+P004,P004,General,P004,$15.20,checked,"Unnamed record,Unnamed record",,
+P005,P005,General,P005,$9.40,checked,,,
+P006,P006,General,P006,$11.30,checked,,,
+P007,P007,General,P007,$13.10,checked,,,
+P008,P008,General,P008,$7.90,checked,,,
+P009,P009,General,P009,$14.60,checked,,,
+P010,P010,General,P010,$16.00,checked,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

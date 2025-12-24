@@ -1,0 +1,4 @@
+﻿Name,Store,SKU,Starting Inventory,Transactions,Net Movement,Current On Hand,Snapshot Inventory,Variance,Variance Status,Store-SKU Key,Average Daily Demand,Lead Time (Days),Safety Stock,Reorder Point (ROP),Days of Supply,Reorder Alert
+,ST01,P001,50.0,"Unnamed record,Unnamed record,Unnamed record,Unnamed record",27.0,77,56.0,21,⚠️ Extra stock,ST01-P001,3.0,5.0,6,21,26,✅ Stock OK
+,,,,Unnamed record,5.0,5,,5,⚠️ Extra stock,-,,,0,0,,✅ Stock OK
+,ST03,P003,,,0.0,0,,0,✅ Match,ST03-P003,,,0,0,,🚨 Reorder Now
