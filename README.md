@@ -31,11 +31,22 @@ Starting Inventory
 - Composite Store–SKU keys ensure correct record matching
 - Reorder alerts are triggered based on demand and lead time
 
-## Screenshots
-See the `screenshots/` folder for:
-- Barcode transaction log
-- Live inventory calculations
-- Reorder alert logic
+## Outputs & Planning Views
+
+### Inventory Transactions (Barcode Scans)
+![Transactions](screenshots/transactions_table1.png)
+
+### Live Inventory Calculation
+![Live Inventory](screenshots/live_inventory1.png)
+
+### Inventory Variance & Reconciliation
+![Variance](screenshots/inventory_variance1.png)
+
+### Reorder Decisions
+![Reorder](screenshots/reorder_decision_view.png)
+
+### Days of Supply Planning
+![Days of Supply](screenshots/days_of_supply.png)
 
 ## Use Case
 Designed for retail stores, warehouses, or shared inventory environments requiring traceability, auditability, and demand-driven replenishment decisions.
