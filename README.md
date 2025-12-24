@@ -40,11 +40,8 @@ Starting Inventory
 ![Live Inventory](Screenshots/live_inventory/live_inventory2.png)
 ![Live Inventory](Screenshots/live_inventory/live_inventory1.png)
 
-### Inventory Variance & Reconciliation
-![Variance](screenshots/inventory_variance1.png)
-
 ### Reorder Decisions
-![Reorder](screenshots/reorder_decision_view.png)
+![Reorder](Screenshots/reorder_alert.png)
 
 ### Days of Supply Planning
 ![Days of Supply](screenshots/days_of_supply.png)
