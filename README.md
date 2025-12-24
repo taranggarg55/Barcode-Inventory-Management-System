@@ -37,7 +37,8 @@ Starting Inventory
 ![Transactions](Screenshots/transactions_table/transactions_table1.png)
 
 ### Live Inventory Calculation
-![Live Inventory](screenshots/live_inventory1.png)
+![Live Inventory](Screenshots/live_inventory/live_inventory2.png)
+![Live Inventory](Screenshots/live_inventory/live_inventory1.png)
 
 ### Inventory Variance & Reconciliation
 ![Variance](screenshots/inventory_variance1.png)
